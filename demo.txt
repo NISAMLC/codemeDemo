@@ -1,5 +1,4 @@
 This is for the demo purpose
 
-Github
-Gitlab
-Data science
+The is my alteration for your commit
+
